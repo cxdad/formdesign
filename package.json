@@ -1,0 +1,29 @@
+{
+  "name": "formdesign",
+  "version": "1.0.0",
+  "description": "form designer",
+  "main": "index.js",
+  "dependencies": {
+    "next": "^9.2.1",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/cxdad/formdesign.git"
+  },
+  "keywords": [
+    "form",
+    "designer"
+  ],
+  "author": "hbyounger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cxdad/formdesign/issues"
+  },
+  "homepage": "https://github.com/cxdad/formdesign#readme"
+}
